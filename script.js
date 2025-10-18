@@ -1,15 +1,15 @@
 // 1️⃣ Car data array (backend)
 const cars = [
-  { name: "Toyota Corolla", year: 2022, price: "$20,000", image: "images/car1.jpg" },
-  { name: "Honda Civic", year: 2021, price: "$21,000", image: "images/car2.jpg" },
-  { name: "Ford Mustang", year: 2023, price: "$35,000", image: "images/car3.jpg" },
-  { name: "Chevrolet Camaro", year: 2022, price: "$33,500", image: "images/car4.jpg" },
-  { name: "Tesla Model 3", year: 2023, price: "$42,000", image: "images/car5.jpg" },
-  { name: "BMW X5", year: 2022, price: "$60,000", image: "images/car6.jpg" },
-  { name: "Audi Q7", year: 2021, price: "$65,000", image: "images/car7.jpg" },
-  { name: "Jeep Wrangler", year: 2023, price: "$45,000", image: "images/car8.jpg" },
-  { name: "Porsche 911", year: 2023, price: "$120,000", image: "images/car9.jpg" },
-  { name: "Mercedes-Benz G-Class", year: 2022, price: "$130,000", image: "images/car10.jpg" }
+  { name: "Toyota Corolla", year: 2022, price: "$20,000", image: "images/car1.png" },
+  { name: "Honda Civic", year: 2021, price: "$21,000", image: "images/car2.png" },
+  { name: "Ford Mustang", year: 2023, price: "$35,000", image: "images/car3.png" },
+  { name: "Chevrolet Camaro", year: 2022, price: "$33,500", image: "images/car4.png" },
+  { name: "Tesla Model 3", year: 2023, price: "$42,000", image: "images/car5.png" },
+  { name: "BMW X5", year: 2022, price: "$60,000", image: "images/car6.png" },
+  { name: "Audi Q7", year: 2021, price: "$65,000", image: "images/car7.png" },
+  { name: "Jeep Wrangler", year: 2023, price: "$45,000", image: "images/car8.png" },
+  { name: "Porsche 911", year: 2023, price: "$120,000", image: "images/car9.png" },
+  { name: "Mercedes-Benz G-Class", year: 2022, price: "$130,000", image: "images/car10.png" }
 ];
 
 // 2️⃣ Select HTML elements
