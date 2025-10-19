@@ -1,7 +1,7 @@
 // 1️⃣ Car data array (backend)
 const cars = [
   { name: "Toyota Corolla", year: 2022, price: "$20,000", image: "images/car1.png" },
-  { name: "Honda Civic", year: 2021, price: "$21,000", image: "images/car2.png" },
+  { name: "Honda Civic", year: 2021, price: "$21,000", image: "images/car2.jpeg" },
   { name: "Ford Mustang", year: 2023, price: "$35,000", image: "images/car3.png" },
   { name: "Chevrolet Camaro", year: 2022, price: "$33,500", image: "images/car4.png" },
   { name: "Tesla Model 3", year: 2023, price: "$42,000", image: "images/car5.png" },
